@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="BookNest-Backend "
               description= "Developed RESTful APIs using Spring Boot to support seamless CRUD operations for book management, orders, and customer interactions. Designed and managed a MySQL database to efficiently store book inventory, user details, and transaction records, ensuring data integrity and optimized performance."
-              ghLink=""
+              ghLink="https://github.com/shobhit0663/BookNest-Backend"
               demoLink=""
             />
           </Col>
@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="BookNest-Frontend"
               description ="Developed a dynamic and responsive user interface using React.js, HTML, CSS, and JavaScript for seamless book browsing, order management, and customer interactions. Integrated RESTful APIs to enable real-time data updates and enhance user experience. Designed an intuitive UI/UX to ensure smooth navigation and optimized performance across devices."
-              ghLink=""
+              ghLink="https://github.com/shobhit0663/BookNest-Frontend"
               demoLink=""
             />
           </Col>
@@ -49,6 +49,7 @@ function Projects() {
               isBlog={false}
               title="PetStore-REST-API-"
               description="Developed a RESTful API for a Pet Store management system using Spring Boot, enabling seamless CRUD operations for managing pets, customers, and orders. Designed a well-structured MySQL database to store pet details, user information, and transactions efficiently. Ensured smooth API communication with robust exception handling and optimized query performance for a scalable and high-performing backend solution."              ghLink=""
+             
               demoLink=""              
             />
           </Col>
@@ -59,7 +60,7 @@ function Projects() {
               isBlog={false}
               title="SpringBoot-Core"
               description="Developed a Spring Boot-based backend for a Mobile Management System, enabling seamless CRUD operations for managing mobile devices, customer records, and orders. Designed a structured MySQL database to store device details, user information, and transactions efficiently. Ensured robust API communication with optimized query performance and exception handling, delivering a scalable and high-performing backend solution."
-              ghLink=""
+              ghLink="https://github.com/shobhit0663/SpringBoot-Core"
               demoLink=""
             />
           </Col>
