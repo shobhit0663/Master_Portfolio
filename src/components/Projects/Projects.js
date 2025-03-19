@@ -48,8 +48,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="PetStore-REST-API-"
-              description="Developed a RESTful API for a Pet Store management system using Spring Boot, enabling seamless CRUD operations for managing pets, customers, and orders. Designed a well-structured MySQL database to store pet details, user information, and transactions efficiently. Ensured smooth API communication with robust exception handling and optimized query performance for a scalable and high-performing backend solution."              ghLink=""
-             
+              description="Developed a RESTful API for a Pet Store management system using Spring Boot, enabling seamless CRUD operations for managing pets, customers, and orders. Designed a well-structured MySQL database to store pet details, user information, and transactions efficiently. Ensured smooth API communication with robust exception handling and optimized query performance for a scalable and high-performing backend solution."              
+              ghLink = "https://github.com/shobhit0663/PetStore-REST-API-"
               demoLink=""              
             />
           </Col>
