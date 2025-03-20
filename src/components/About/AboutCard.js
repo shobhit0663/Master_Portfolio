@@ -11,22 +11,27 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Shobhit Gaidhane </span>
             from <span className="purple"> Pune, Maharashtra.</span>
             <br />
-            Aspiring Full Stack Developer with a strong foundation in Java, SpringBoot, React.
+            Aspiring Software Developer with a strong foundation in Java, Spring Boot, React.js, and Cloud Technologies (AWS, Azure, GCP), passionate about building scalable, secure, and high-performance applications. 🚀
             <br /> <br/>
-            Passionate about building scalable web applications and committed to continuous learning. Experienced in academic projects and proficient with Git. Eager to contribute to innovative projects and grow in a dynamic development team.
+            Passionate about building scalable web applications 🌐 and committed to continuous learning 📚. Experienced in academic projects 🏗️ and proficient with Git 🖥️. Eager to contribute to innovative projects 💡 and grow in a dynamic development team 🤝!            <br />
             <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do! 😃✨
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> 🏋️ Fitness & Workout – Keeping an active lifestyle for a healthy mind and body.
             </li>
-            {/* <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
-            </li> */}
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> 🎮 Gaming – Enjoying immersive virtual worlds and strategic challenges.
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> 📖 Reading Tech Blogs – Staying updated with the latest trends in technology.
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> 🎵 Listening to Music – Relaxing with my favorite tunes while working.
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> ✈️ Exploring New Places – Traveling and experiencing different cultures.
             </li>
           </ul>
 

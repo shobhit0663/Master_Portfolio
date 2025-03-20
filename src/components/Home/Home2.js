@@ -28,7 +28,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              With a passion for creating responsive and user-friendly web applications, I am always eager to <i>
+              With a passion for creating responsive and user-friendly  Cloud-Powered Web Solution, I am always eager to <i>
                 <b className="purple">solve complex problems </b> and
                 {" "}
                 <b className="purple">
